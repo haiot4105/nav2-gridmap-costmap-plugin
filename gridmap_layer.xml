@@ -1,0 +1,5 @@
+<library path="nav2_gridmap_costmap_plugin_core">
+  <class name="nav2_gridmap_costmap_plugin/GridmapLayer" type="nav2_gridmap_costmap_plugin::GridmapLayer" base_class_type="nav2_costmap_2d::Layer">
+    <description>Run-time plugin for Costmap2D, which construct occupancy grid based on grid_map</description>
+  </class>
+</library>
